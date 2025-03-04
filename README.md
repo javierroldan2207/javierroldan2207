@@ -8,25 +8,25 @@ Soy **Javier Roldán**, un apasionado **Desarrollador de Software** con experien
 
 ### Lenguajes de programación:
 
-- ![Java](https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg) **Java**
-- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) **Python**
-- ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) **HTML**
-- ![CSS](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg) **CSS**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg" width="30" /> **Java**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30" /> **Python**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="30" /> **HTML**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="30" /> **CSS**
 
 ### Bases de datos:
 
-- ![Oracle](https://upload.wikimedia.org/wikipedia/commons/2/2d/Oracle_logo.svg) **Oracle**
-- ![SQL](https://upload.wikimedia.org/wikipedia/commons/4/47/SQL_Logo.svg) **SQL**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Oracle_logo.svg" width="30" /> **Oracle**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/SQL_Logo.svg" width="30" /> **SQL**
 
 ### Entornos de desarrollo:
 
-- ![Visual Studio](https://upload.wikimedia.org/wikipedia/commons/1/1f/Visual_Studio_2019_logo.svg) **Visual Studio**
-- ![Eclipse](https://upload.wikimedia.org/wikipedia/commons/7/73/Eclipse-Logo.svg) **Eclipse**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Visual_Studio_2019_logo.svg" width="30" /> **Visual Studio**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Eclipse-Logo.svg" width="30" /> **Eclipse**
 
 ### Control de versiones:
 
-- ![Git](https://upload.wikimedia.org/wikipedia/commons/6/63/Git_logo_2.svg) **Git**
-- ![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg) **GitHub**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Git_logo_2.svg" width="30" /> **Git**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="30" /> **GitHub**
 
 ### Metodologías ágiles:
 
