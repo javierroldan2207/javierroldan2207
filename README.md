@@ -1,7 +1,5 @@
 # 👨‍💻 Formación.
 
-## Descripción
-
 Soy **Javier Roldán**, un apasionado **Desarrollador de Software** con experiencia en **Java**, **Python**, **HTML**, **CSS** y **bases de datos**. Este proyecto refleja mi capacidad para aplicar mis conocimientos en **desarrollo de software**, con un enfoque en crear soluciones funcionales y eficientes.
 
 ## Tecnologías y Herramientas
