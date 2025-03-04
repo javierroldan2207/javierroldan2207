@@ -15,13 +15,13 @@ Soy **Javier Roldán**, un apasionado **Desarrollador de Software** con experien
 
 ### Bases de datos:
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Oracle_logo.svg" width="30" /> **Oracle**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Oracle_logo.svg" width="30" /> **Oracle**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/SQL_Logo.svg" width="30" /> **SQL**
 
 ### Entornos de desarrollo:
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Visual_Studio_2019_logo.svg" width="30" /> **Visual Studio**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Eclipse-Logo.svg" width="30" /> **Eclipse**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Visual_Studio_2019_logo.svg" width="30" /> **Visual Studio**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Eclipse-logo.svg" width="30" /> **Eclipse**
 
 ### Control de versiones:
 
@@ -31,3 +31,4 @@ Soy **Javier Roldán**, un apasionado **Desarrollador de Software** con experien
 ### Metodologías ágiles:
 
 - **Scrum**
+- **Kanban**
